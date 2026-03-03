@@ -52,8 +52,8 @@ My curiosity drives me to explore everything from high-level frameworks to low-l
 
 ### 🔥 Notable Projects
 
-- **Sanex** — A social network featuring premium features for free forever.
-- **[PsychoDev](https://github.com/tryvald/Sanex-discord-bot)** — A feature-rich Discord bot built with discord.js v14. Includes utility, moderation, fun, and advanced commands, with a modular command structure and easy configuration.
+- **[Sanex](#)** — A social network featuring premium features for free forever.
+- **[PsychoDev](https://github.com/tryvald/TryVald-discord-bot)** — A feature-rich Discord bot built with discord.js v14. Includes utility, moderation, fun, and advanced commands, with a modular command structure and easy configuration.
 - **AjeyX** — A Minecraft mod used to make each mod compatible with one another. It makes Fabric mods and Forge mods compatible.
 
 ### 📊 GitHub Stats
