@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Lucas R.</h1>
   <h2> Commonly known <strong>as Alex Juyo Keyhan</strong> </h2>
-  <h3>Full‑Stack Developer, Discord Developer, Minecraft Mod Dev, Data Engineer, Logic Gate Operator, Versatile Dev</h3>
+  <h3>Full‑Stack Developer, Discord Developer, Minecraft Mod Dev, Data Engineer, Cybersecurity Expert, Logic Gate Operator, Versatile Dev</h3>
 
   <img src="https://komarev.com/ghpvc/?username=DAEKK0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
