@@ -24,7 +24,7 @@ I'm a passionate developer who thrives on building major things from the ground 
 | Role | Organization | Period |
 |------|--------------|--------|
 | **Indie Developer** | ValdTech (as Kael Juyo Keihan) | 2023 – present |
-| **OSINT Agent / Malware Developer / RedTeam Pentester / BlueTeam Operator** | [Shinoff.org](https://shinoff.org/) | *Placeholder – contact in progress* |
+| **OSINT Agent / Malware Developer / RedTeam Pentester / BlueTeam Operator** | [Shinoff.org](https://shinoff.org/) | February to March 2026 |
 
 ---
 
