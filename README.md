@@ -87,7 +87,7 @@ I'm a passionate developer who thrives on building major things from the ground 
 
 These are the projects I'm most proud of – they showcase my ability to build complex, production‑ready systems from scratch.
 
-### [PsychoDev – All‑in‑One Discord Bot](https://github.com/tryvald/TryVald-discord-bot)
+### [TRYVALD – All‑in‑One Discord Bot](https://github.com/tryvald/TryVald-discord-bot)
 A feature‑rich Discord bot built with **discord.js v14**. It includes utility, moderation, fun, and advanced commands, with a modular structure and per‑server configuration. Features logging, reaction roles, scheduled messages, auto‑role, welcome/goodbye embeds, and much more. Designed to replace multiple bots with a single, powerful solution.
 
 ### [Mine Souls 3 Linux](https://github.com/DAEKK0/mine-souls-3-linux)
