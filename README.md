@@ -122,7 +122,7 @@ These older projects show where I started and how quickly I've evolved. In just 
 - **Professional Email:** [TryVald@proton.me](mailto:TryVald@proton.me)
 - **Phone:** +261 33 09 577 42
 - **Instagram:** [@gkxsot](https://www.instagram.com/gkxsot/)
-- **Discord:** [16182062422638277253](https://discord.com/users/16182062422638277253)
+- **Discord:** [89849194184165198](https://discord.com/users/89849194184165198)
 - **Location:** Antananarivo, Madagascar
 
 ---
