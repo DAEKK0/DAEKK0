@@ -6,6 +6,7 @@
 </div>
 ---
 ## 🧠 About Me
+
 I'm a passionate developer who thrives on building major things from the ground up. Whether it's a full‑stack web app, a Discord bot, or a Minecraft mod, I dive deep into the technology to truly understand how it works. My curiosity drives me to explore everything from high‑level frameworks to low‑level logic.
 
 - 🔭 **Currently:** Indie Developer at **ValdTech** (my personal organization, soon to be a real startup)  
