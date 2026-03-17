@@ -1,44 +1,59 @@
 # 👋 Hi, I'm Lucas R. / Alex Juyo Keyhan
-
 <div align="center">
   <h3>Full‑Stack Developer • Discord Bot Engineer • Cybersecurity Enthusiast</h3>
   <p><em>Building from scratch to understand the deepness – I love complexity and problem‑solving</em></p>
   <img src="https://komarev.com/ghpvc/?username=DAEKK0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
-
 ---
-
 ## 🧠 About Me
-
 I'm a passionate developer who thrives on building major things from the ground up. Whether it's a full‑stack web app, a Discord bot, or a Minecraft mod, I dive deep into the technology to truly understand how it works. My curiosity drives me to explore everything from high‑level frameworks to low‑level logic.
 
-- 🔭 **Currently:** Indie Developer at **ValdTech** (my personal organization, soon to be a real startup)
-- 🌱 **Learning:** Always – currently diving deeper into **TypeScript, Next.js, and cybersecurity**.
-- 💬 **Ask me about:** Discord bots, full‑stack development, Minecraft modding, or anything tech.
-- ⚡ **Fun fact:** I once built a RAM with nothing but a logic gate simulator. Also, being dyslexic, I sometimes debug for an hour just to find a misspelled word! 😂
+- 🔭 **Currently:** Indie Developer at **ValdTech** (my personal organization, soon to be a real startup)  
+- 🌱 **Learning:** Always – currently diving deeper into **TypeScript, Next.js, PostgreSQL, Supabase, and serverless architectures** (Vercel/Netlify focus)  
+- 💬 **Ask me about:** Discord bots, full‑stack development (TypeScript + PostgreSQL), clean scalable code, APIs, data modeling, Minecraft modding, or anything tech  
+- ⚡ **Fun fact:** I once built a RAM with nothing but a logic gate simulator. Also, being dyslexic, I sometimes debug for an hour just to find a misspelled word! 😂  
+- 💡 Passionate about delivering clean, production-ready features end-to-end with minimal bureaucracy — exactly how I build at ValdTech
 
 ---
-
 ## 💼 Experience
-
 | Role | Organization | Period |
 |------|--------------|--------|
 | **Indie Developer** | ValdTech (as Kael Juyo Keihan) | 2023 – present |
 | **OSINT Agent / Malware Developer / RedTeam Pentester / BlueTeam Operator** | [Shinoff.org](https://shinoff.org/) | February to March 2026 |
 
+**Relevant full-stack & backend work at ValdTech (2023–present):**
+- Built and maintain full TypeScript-based web apps & APIs (Node.js, Express, PostgreSQL/MongoDB)
+- Deployed production apps to Vercel/Netlify with GitHub Actions CI/CD
+- Designed data models, wrote complex SQL queries, and handled API integrations
+- Delivered features independently from spec to production with focus on clean, scalable code
+
 ---
+## Relevant Experience & Alignment (for Full-Stack Roles)
+**Strong match for TypeScript + Supabase/PostgreSQL + Python backend roles:**
 
+**Must-have alignment:**
+- 3+ years full-stack experience (self-taught + production projects since 2023)
+- Deep TypeScript/JavaScript knowledge (used daily in Next.js, React, discord.js v14)
+- Solid Python experience (backend scripts, data processing, analytics logic in personal & freelance projects)
+- Strong PostgreSQL understanding (data modeling, complex queries, schema design in production apps)
+- Built & consumed REST/GraphQL APIs extensively (Discord bots, web apps, third-party integrations)
+- Deliver clean, production-ready code independently — small-team/fast-paced mindset
+
+**Nice-to-have alignment:**
+- Hands-on with serverless (Vercel, Netlify deployments — zero-config CI/CD)
+- Experience with analytics systems & data pipelines (custom logging, usage tracking in bots & apps)
+- Familiar with modern database tools (PostgreSQL + extensions, similar mindset to Supabase)
+- Comfortable translating feature specs into technical execution (done daily at ValdTech)
+
+---
 ## 📜 Certifications & Education
-
 - 🎓 **Full‑Stack Developer Certificate** – Udemy  
   [View Certificate](https://www.udemy.com/certificate/UC-31b42d98-e354-4477-866a-5c7110921844/)
 - 📖 **Autodidact** – Self‑taught, constantly learning
 - 📚 Currently working on additional certifications (but my projects speak for themselves)
 
 ---
-
 ## 🛠️ Skills & Technologies
-
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -63,10 +78,12 @@ I'm a passionate developer who thrives on building major things from the ground 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Operating Systems**  
@@ -82,24 +99,20 @@ I'm a passionate developer who thrives on building major things from the ground 
 ![ComputerCraft](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) *(extensive Lua experience from ComputerCraft)*
 
 ---
-
 ## 🔥 Major Projects
-
 These are the projects I'm most proud of – they showcase my ability to build complex, production‑ready systems from scratch.
 
 ### [TRYVALD – All‑in‑One Discord Bot](https://github.com/tryvald/TryVald-discord-bot)
-A feature‑rich Discord bot built with **discord.js v14**. It includes utility, moderation, fun, and advanced commands, with a modular structure and per‑server configuration. Features logging, reaction roles, scheduled messages, auto‑role, welcome/goodbye embeds, and much more. Designed to replace multiple bots with a single, powerful solution.
+A feature‑rich Discord bot built with **discord.js v14 + TypeScript**. Modular architecture, per-server config, advanced APIs, logging, reaction roles, scheduled messages, auto-role, welcome/goodbye embeds. Designed for clean, scalable code and easy maintenance — replaced multiple bots with one robust solution.
+
+### [ValdTech Documentation Website](https://valdtech.dedyn.io/)
+Modern documentation site built with **React + TypeScript + Tailwind CSS**, deployed on **Vercel**. Features responsive design, command cards, search, changelog, legal pages, dark mode. Demonstrates end-to-end feature implementation, API consumption, and clean production code.
 
 ### [Mine Souls 3 Linux](https://github.com/DAEKK0/mine-souls-3-linux)
-A remake of Dark Souls 3 in Minecraft style. This project combines my love for game design and Minecraft modding, bringing the challenging souls‑like experience into the blocky world.
-
-### [Documentation Website](https://valdtech.dedyn.io/)
-A modern, dark‑mode documentation site for my Discord bot, built with **React** and **Tailwind CSS** using the exact color palette you see here. It features a responsive layout, command cards, search, changelog, and legal pages. Hosted on my own infrastructure.
+A souls-like experience recreated in Minecraft using modding tools. Involved complex logic, data modeling (item/stats systems), and clean code structure — showcases problem-solving and scalable design thinking.
 
 ---
-
 ## 🧪 Minor Projects (A Look at My Growth)
-
 These older projects show where I started and how quickly I've evolved. In just three years, I've gone from simple experiments to building complex, full‑scale applications.
 
 | Project | Description | Year |
@@ -108,17 +121,12 @@ These older projects show where I started and how quickly I've evolved. In just 
 | [**UI – PS5‑like Interface**](https://github.com/DAEKK0/UI) | A pure HTML/CSS recreation of the PlayStation 5 dashboard. Built 2 years ago to sharpen my front‑end skills. | 2024 |
 
 ---
-
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAEKK0&theme=dark&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
-
 ---
-
 ## 📫 Connect With Me
-
 - **Professional Email:** [TryVald@proton.me](mailto:TryVald@proton.me)
 - **Phone:** +261 33 09 577 42
 - **Instagram:** [@gkxsot](https://www.instagram.com/gkxsot/)
@@ -126,13 +134,12 @@ These older projects show where I started and how quickly I've evolved. In just 
 - **Location:** Antananarivo, Madagascar
 
 ---
-
 ## 💡 Open to Opportunities
+I'm actively seeking **full-stack developer roles** (especially TypeScript + PostgreSQL/Supabase + Python backend) where I can implement features end-to-end in a fast-moving, low-bureaucracy environment. Remote/contractor preferred.
 
-I'm actively seeking roles in **full‑stack development** and **Discord bot engineering**. I love complexity and have a huge passion for problem‑solving. Whether it's building from scratch or diving into an existing codebase, I'm ready to contribute.
+Ready to contribute clean, scalable code and help ship real product features quickly.
 
 ---
-
 <div align="center">
   <i>Versatile dev • Always learning • Building the future one commit at a time</i> ✨
 </div>
