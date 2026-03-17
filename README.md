@@ -4,14 +4,13 @@
   <p><em>Building from scratch to understand the deepness – I love complexity and problem‑solving</em></p>
   <img src="https://komarev.com/ghpvc/?username=DAEKK0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
-
+---
 ## 🧠 About Me
-
 I'm a passionate developer who thrives on building major things from the ground up. Whether it's a full‑stack web app, a Discord bot, or a Minecraft mod, I dive deep into the technology to truly understand how it works. My curiosity drives me to explore everything from high‑level frameworks to low‑level logic.
 
 - 🔭 **Currently:** Indie Developer at **ValdTech** (my personal organization, soon to be a real startup)  
-- 🌱 **Learning:** Always – currently diving deeper into **TypeScript, Next.js, PostgreSQL, Supabase, and serverless architectures** (Vercel/Netlify focus)  
-- 💬 **Ask me about:** Discord bots, full‑stack development (TypeScript + PostgreSQL), clean scalable code, APIs, data modeling, Minecraft modding, or anything tech  
+- 🌱 **Learning:** Always – currently diving deeper into **TypeScript, Next.js, PostgreSQL, Supabase, serverless architectures** (Vercel/Netlify focus) **and Python for backend services, data processing & analytics engines**  
+- 💬 **Ask me about:** Discord bots, full‑stack development (TypeScript + PostgreSQL), clean scalable code, APIs, data modeling, Python backend/analytics, Minecraft modding, or anything tech  
 - ⚡ **Fun fact:** I once built a RAM with nothing but a logic gate simulator. Also, being dyslexic, I sometimes debug for an hour just to find a misspelled word! 😂  
 - 💡 Passionate about delivering clean, production-ready features end-to-end with minimal bureaucracy — exactly how I build at ValdTech
 
@@ -24,6 +23,7 @@ I'm a passionate developer who thrives on building major things from the ground 
 
 **Relevant full-stack & backend work at ValdTech (2023–present):**
 - Built and maintain full TypeScript-based web apps & APIs (Node.js, Express, PostgreSQL/MongoDB)
+- Developed Python backend services and scripts for data processing, analytics logic, and third-party integrations
 - Deployed production apps to Vercel/Netlify with GitHub Actions CI/CD
 - Designed data models, wrote complex SQL queries, and handled API integrations
 - Delivered features independently from spec to production with focus on clean, scalable code
@@ -35,7 +35,7 @@ I'm a passionate developer who thrives on building major things from the ground 
 **Must-have alignment:**
 - 3+ years full-stack experience (self-taught + production projects since 2023)
 - Deep TypeScript/JavaScript knowledge (used daily in Next.js, React, discord.js v14)
-- Solid Python experience (backend scripts, data processing, analytics logic in personal & freelance projects)
+- **Solid Python experience** in backend services, data pipelines, analytics engines, and AI-adjacent systems (built multiple production-grade Python components for data logic and integrations)
 - Strong PostgreSQL understanding (data modeling, complex queries, schema design in production apps)
 - Built & consumed REST/GraphQL APIs extensively (Discord bots, web apps, third-party integrations)
 - Deliver clean, production-ready code independently — small-team/fast-paced mindset
@@ -48,14 +48,14 @@ I'm a passionate developer who thrives on building major things from the ground 
 
 ---
 ## 📜 Certifications & Education
-- 🎓 **Full‑Stack Developer Certificate** – Udemy  
+- 🎓 **Full‑Stack Developer Certificate** – Udemy
   [View Certificate](https://www.udemy.com/certificate/UC-31b42d98-e354-4477-866a-5c7110921844/)
 - 📖 **Autodidact** – Self‑taught, constantly learning
 - 📚 Currently working on additional certifications (but my projects speak for themselves)
 
 ---
 ## 🛠️ Skills & Technologies
-**Languages**  
+**Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,7 +66,7 @@ I'm a passionate developer who thrives on building major things from the ground 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Frameworks & Libraries**  
+**Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -75,25 +75,25 @@ I'm a passionate developer who thrives on building major things from the ground 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-**Tools & Platforms**  
+**Tools & Platforms**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-**Databases**  
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Operating Systems**  
+**Operating Systems**
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E8E8E?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Minecraft Modding**  
+**Minecraft Modding**
 ![Forge](https://img.shields.io/badge/Forge-EF7D0B?style=for-the-badge&logo=curseforge&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Fabric-1A1A1A?style=for-the-badge&logo=fabric&logoColor=white)
 ![Quilt](https://img.shields.io/badge/Quilt-7A4A9E?style=for-the-badge&logo=quilt&logoColor=white)
@@ -126,8 +126,7 @@ These older projects show where I started and how quickly I've evolved. In just 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAEKK0&theme=dark&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
-
-
+---
 ## 📫 Connect With Me
 - **Professional Email:** [TryVald@proton.me](mailto:TryVald@proton.me)
 - **Phone:** +261 33 09 577 42
