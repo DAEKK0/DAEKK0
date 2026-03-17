@@ -4,7 +4,7 @@
   <p><em>Building from scratch to understand the deepness – I love complexity and problem‑solving</em></p>
   <img src="https://komarev.com/ghpvc/?username=DAEKK0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
----
+
 ## 🧠 About Me
 I'm a passionate developer who thrives on building major things from the ground up. Whether it's a full‑stack web app, a Discord bot, or a Minecraft mod, I dive deep into the technology to truly understand how it works. My curiosity drives me to explore everything from high‑level frameworks to low‑level logic.
 
@@ -126,7 +126,8 @@ These older projects show where I started and how quickly I've evolved. In just 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAEKK0&theme=dark&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
----
+
+
 ## 📫 Connect With Me
 - **Professional Email:** [TryVald@proton.me](mailto:TryVald@proton.me)
 - **Phone:** +261 33 09 577 42
