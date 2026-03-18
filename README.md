@@ -9,8 +9,8 @@
 I'm a passionate developer who thrives on building major things from the ground up. Whether it's a full‑stack web app, a Discord bot, or a Minecraft mod, I dive deep into the technology to truly understand how it works. My curiosity drives me to explore everything from high‑level frameworks to low‑level logic.
 
 - 🔭 **Currently:** Indie Developer at **ValdTech** (my personal organization, soon to be a real startup)  
-- 🌱 **Learning:** Always – currently diving deeper into **TypeScript, Next.js, PostgreSQL, Supabase, serverless architectures** (Vercel/Netlify focus) **and Python for backend services, data processing & analytics engines**  
-- 💬 **Ask me about:** Discord bots, full‑stack development (TypeScript + PostgreSQL), clean scalable code, APIs, data modeling, Python backend/analytics, Minecraft modding, or anything tech  
+- 🌱 **Learning:** Always – currently diving deeper into **JavaScript, Next.js, PostgreSQL, Supabase, serverless architectures** (Vercel/Netlify focus) **and Python for backend services, data processing & analytics engines**  
+- 💬 **Ask me about:** Discord bots, full‑stack development (JavaScript + PostgreSQL), clean scalable code, APIs, data modeling, Python backend/analytics, Minecraft modding, or anything tech  
 - ⚡ **Fun fact:** I once built a RAM with nothing but a logic gate simulator. Also, being dyslexic, I sometimes debug for an hour just to find a misspelled word! 😂  
 - 💡 Passionate about delivering clean, production-ready features end-to-end with minimal bureaucracy — exactly how I build at ValdTech
 
@@ -22,7 +22,7 @@ I'm a passionate developer who thrives on building major things from the ground 
 | **OSINT Agent / Malware Developer / RedTeam Pentester / BlueTeam Operator** | [Shinoff.org](https://shinoff.org/) | February to March 2026 |
 
 **Relevant full-stack & backend work at ValdTech (2023–present):**
-- Built and maintain full TypeScript-based web apps & APIs (Node.js, Express, PostgreSQL/MongoDB)
+- Built and maintain full JavaScript-based web apps & APIs (Node.js, Express, PostgreSQL/MongoDB)
 - Developed Python backend services and scripts for data processing, analytics logic, and third-party integrations
 - Deployed production apps to Vercel/Netlify with GitHub Actions CI/CD
 - Designed data models, wrote complex SQL queries, and handled API integrations
@@ -30,11 +30,11 @@ I'm a passionate developer who thrives on building major things from the ground 
 
 ---
 ## Relevant Experience & Alignment (for Full-Stack Roles)
-**Strong match for TypeScript + Supabase/PostgreSQL + Python backend roles:**
+**Strong match for JavaScript + Supabase/PostgreSQL + Python backend roles:**
 
 **Must-have alignment:**
 - 3+ years full-stack experience (self-taught + production projects since 2023)
-- Deep TypeScript/JavaScript knowledge (used daily in Next.js, React, discord.js v14)
+- Deep JavaScript/JavaScript knowledge (used daily in Next.js, React, discord.js v14)
 - **Solid Python experience** in backend services, data pipelines, analytics engines, and AI-adjacent systems (built multiple production-grade Python components for data logic and integrations)
 - Strong PostgreSQL understanding (data modeling, complex queries, schema design in production apps)
 - Built & consumed REST/GraphQL APIs extensively (Discord bots, web apps, third-party integrations)
@@ -104,10 +104,10 @@ I'm a passionate developer who thrives on building major things from the ground 
 These are the projects I'm most proud of – they showcase my ability to build complex, production‑ready systems from scratch.
 
 ### [TRYVALD – All‑in‑One Discord Bot](https://github.com/tryvald/TryVald-discord-bot)
-A feature‑rich Discord bot built with **discord.js v14 + TypeScript**. Modular architecture, per-server config, advanced APIs, logging, reaction roles, scheduled messages, auto-role, welcome/goodbye embeds. Designed for clean, scalable code and easy maintenance — replaced multiple bots with one robust solution.
+A feature‑rich Discord bot built with **discord.js v14 + JavaScript**. Modular architecture, per-server config, advanced APIs, logging, reaction roles, scheduled messages, auto-role, welcome/goodbye embeds. Designed for clean, scalable code and easy maintenance — replaced multiple bots with one robust solution.
 
 ### [ValdTech Documentation Website](https://valdtech.dedyn.io/)
-Modern documentation site built with **React + TypeScript + Tailwind CSS**, deployed on **Vercel**. Features responsive design, command cards, search, changelog, legal pages, dark mode. Demonstrates end-to-end feature implementation, API consumption, and clean production code.
+Modern documentation site built with **React + JavaScript + Tailwind CSS**, deployed on **Vercel**. Features responsive design, command cards, search, changelog, legal pages, dark mode. Demonstrates end-to-end feature implementation, API consumption, and clean production code.
 
 ### [Mine Souls 3 Linux](https://github.com/DAEKK0/mine-souls-3-linux)
 A souls-like experience recreated in Minecraft using modding tools. Involved complex logic, data modeling (item/stats systems), and clean code structure — showcases problem-solving and scalable design thinking.
@@ -137,7 +137,7 @@ These older projects show where I started and how quickly I've evolved. In just 
 
 ---
 ## 💡 Open to Opportunities
-I'm actively seeking **full-stack developer roles** (especially TypeScript + PostgreSQL/Supabase + Python backend) where I can implement features end-to-end in a fast-moving, low-bureaucracy environment. Remote/contractor preferred.
+I'm actively seeking **full-stack developer roles** (especially JavaScript + PostgreSQL/Supabase + Python backend) where I can implement features end-to-end in a fast-moving, low-bureaucracy environment. Remote/contractor preferred.
 
 Ready to contribute clean, scalable code and help ship real product features quickly.
 
