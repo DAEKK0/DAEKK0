@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas R. / Alex Juyo Keyhan
+
 <div align="center">
   <h3>Full‑Stack Developer • Discord Bot Engineer • Cybersecurity Enthusiast</h3>
   <p><em>Building from scratch to understand the deepness – I love complexity and problem‑solving</em></p>
@@ -11,7 +11,6 @@ I'm a passionate developer who thrives on building major things from the ground 
 - 🔭 **Currently:** Indie Developer at **ValdTech** (my personal organization, soon to be a real startup)  
 - 🌱 **Learning:** Always – currently diving deeper into **JavaScript, Next.js, PostgreSQL, Supabase, serverless architectures** (Vercel/Netlify focus) **and Python for backend services, data processing & analytics engines**  
 - 💬 **Ask me about:** Discord bots, full‑stack development (JavaScript + PostgreSQL), clean scalable code, APIs, data modeling, Python backend/analytics, Minecraft modding, or anything tech  
-- ⚡ **Fun fact:** I once built a RAM with nothing but a logic gate simulator. Also, being dyslexic, I sometimes debug for an hour just to find a misspelled word! 😂  
 - 💡 Passionate about delivering clean, production-ready features end-to-end with minimal bureaucracy — exactly how I build at ValdTech
 
 ---
